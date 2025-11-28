@@ -35,7 +35,8 @@ Disponibilizamos, caso o município necessite, um sistema complementar para aná
 
 ## 🛡️ Observações de Segurança
 
-Liberado apenas a versão inicial do projeto sem as melhorias e correções. Caso precise de futuras atualizações ou que o programa seja adaptado ao seu municipio, entre em contato.
+"Esta é apenas a versão inicial do projeto, disponibilizada sem melhorias ou correções adicionais. Caso necessite de atualizações futuras ou adaptações específicas para o seu município, entre em contato."
+
 Qualquer publicação externa, abertura de portas ou configurações de rede é de responsabilidade da equipe técnica do município.
 
 ---
