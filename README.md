@@ -2,7 +2,7 @@
 Sistema para gestão do transporte de pacientes do SUS, incluindo módulo para motoristas registrarem viagens e diárias. Possui gerador de BPA-I para envio ao SIA/SUS, ajudando a aumentar o faturamento municipal.
 
 
-# Sistema de Controle de Transporte SUS
+# Sistema de Controle de Transporte SUS  BPA I Municipio
 
 Sistema desenvolvido para auxiliar municípios na organização do transporte de pacientes da rede SUS, oferecendo ferramentas práticas para gerenciamento de viagens, diárias de motoristas e geração de BPA-I para envio ao SIA/SUS.
 
@@ -13,7 +13,7 @@ Sistema desenvolvido para auxiliar municípios na organização do transporte de
 ### • Controle de Transporte
 
 * Cadastro e gerenciamento de viagens.
-* Registro de pacientes e acompanhantes.
+* Registro de pacientes e acompanhantes. Com cadastros do paciente vindo direto do e-SUS.
 * Histórico completo e rastreabilidade das rotas realizadas.
 
 ### • Módulo do Motorista
